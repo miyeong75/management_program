@@ -8,6 +8,16 @@ git clone
 $ git clone https://github.com/miyeong75/management_program.git
 ```
 
+make
+``` 
+$ make
+```
+
+실행
+``` 
+$ ./main
+```
+
 ## 기능
 
 1. 사용자 정보 입력 / 변경
