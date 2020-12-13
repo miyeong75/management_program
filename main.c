@@ -82,7 +82,6 @@ void printSchedule(void) {
     struct node_1* tmp_node;
     struct node_1* list_head = NULL;
     char place[40];
-    char input = '0';
 
     FILE* fp = NULL;
     fp = fopen("travel.txt", "r+");
