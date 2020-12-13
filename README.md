@@ -1,6 +1,13 @@
 # 여행 일정 관리 프로그램
 여행 지역 범위 : 거제
 
+## 실행 방법
+
+git clone
+``` 
+$ git clone https://github.com/miyeong75/management_program.git
+```
+
 ## 기능
 
 1. 사용자 정보 입력 / 변경
