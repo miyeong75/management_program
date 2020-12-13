@@ -1,6 +1,4 @@
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
+#include "header.h"
 
 typedef struct user {
     int period;
@@ -38,7 +36,7 @@ void reset(void);
 
 
 void main(void) {
-
+	
     while (1) {
         int n;
         printf("=====================================\n");
